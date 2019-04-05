@@ -1,5 +1,5 @@
 # serverless-ml
-repo to keep artifacts of running ML inferences in Lambda functions in  the serverless manner
+Repo to keep artifacts of running ML inferences in Lambda functions in  the serverless manner
 
 comments for serverless-ml.yml -->
 
